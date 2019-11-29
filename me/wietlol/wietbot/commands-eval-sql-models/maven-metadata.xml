@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>me.wietlol.wietbot</groupId>
+  <artifactId>commands-eval-sql-models</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20191129224640</lastUpdated>
+  </versioning>
+</metadata>
