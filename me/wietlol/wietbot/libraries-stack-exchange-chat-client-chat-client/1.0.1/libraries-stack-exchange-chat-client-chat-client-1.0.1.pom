@@ -72,12 +72,6 @@
 			<artifactId>konfig-api</artifactId>
 			<version>${konfig.version}</version>
 		</dependency>
-		
-		<dependency>
-			<groupId>com.beust</groupId>
-			<artifactId>klaxon</artifactId>
-			<version>5.0.1</version>
-		</dependency>
 	</dependencies>
 	
 	<build>
