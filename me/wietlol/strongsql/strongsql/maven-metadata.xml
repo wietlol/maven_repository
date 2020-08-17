@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>me.wietlol.strongsql</groupId>
+  <artifactId>strongsql</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200817202703</lastUpdated>
+  </versioning>
+</metadata>
