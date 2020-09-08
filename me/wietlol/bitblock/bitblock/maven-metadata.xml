@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>me.wietlol.bitblock</groupId>
+  <artifactId>bitblock</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200908142734</lastUpdated>
+  </versioning>
+</metadata>
